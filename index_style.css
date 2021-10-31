@@ -1,0 +1,28 @@
+body
+{
+  padding: 0;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Header_Table
+{
+  width:100%;
+}
+
+.Header
+{
+  width: 100%;
+  height: auto;
+  background-color: white;
+  position:fixed;
+  top:0;
+}
+
+.Header_Text
+{
+  text-align: center;
+  color: black;
+  margin: 0em;
+  font-size: 50;
+}
