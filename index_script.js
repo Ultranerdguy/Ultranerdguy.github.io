@@ -1,5 +1,4 @@
-function onReady()
-{
+function onReady() {
   
 }
 
